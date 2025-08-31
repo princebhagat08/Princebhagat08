@@ -8,8 +8,6 @@
 - 💬 Ask me about **dart, flutter, java, spring boot**
 
 - 📫 How to reach me **princebhagat12336@gmail.com**
-- 🎯 Portfolio [Prince](https://prince-kumar-alpha.vercel.app/)
-- 📄 Resume [Prince Kumar](https://github.com/princebhagat08/Princebhagat08/blob/main/Prince%20Kumar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
