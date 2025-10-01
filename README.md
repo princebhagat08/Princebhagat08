@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princebhagat08&label=Profile%20views&color=0e75b6&style=flat" alt="princebhagat08" /> </p>
 
 - 🌱 I’m currently learning **Spring boot Framework**
 
-- 💬 Ask me about **dart, flutter, java, spring boot**
+- 💬 Ask me about **Dart, Flutter, Java, Spring Boot, DSA**
 
 - 📫 How to reach me **princebhagat12336@gmail.com**
 
